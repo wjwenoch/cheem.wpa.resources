@@ -1,2 +1,9 @@
 # cheem.wpa.resources
-Resources and possible code sharing
+
+## Knowledge bases (KB)
+
+### General purpose KB
+|KB Name | Link | Remarks |
+|--------|------|---------|
+
+### Domain KB
