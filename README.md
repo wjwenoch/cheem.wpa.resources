@@ -27,7 +27,7 @@
 
 # References
 ## on Whitebox Deep Learning
-Hinton's [recent paper](https://research.google.com/pubs/pub46351.html) in NIPS 2017 on "Capsules". See also his [old paper on capsules](https://www.google.com.sg/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwicwvSd47DWAhUEuo8KHTCcC1gQFgguMAA&url=http%3A%2F%2Fwww.cs.toronto.edu%2F~fritz%2Fabsps%2Ftransauto6.pdf&usg=AFQjCNHBOqjwYjRV8EAZ1oikEglnDE7xkQ)
+Hinton's [recent paper](https://research.google.com/pubs/pub46351.html) in NIPS 2017 on "Capsules". See also his [old paper on capsules](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf)
 ## on XAI
 ### Venues
 There are several workshops under main AI conferences dedicated for explanations and interpretability in machine learning. The links given are for the latest series only. 
