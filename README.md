@@ -1,3 +1,10 @@
+# Venues for publishing/collaboration
+## Conferences
+|Conference|CFP|Remarks|
+|----------|---|-------|
+|AAAI/ACM Conference on AI, Ethics, and Society|http://www.aies-conference.com |Deadline: Submission: October 31st, 2017| 
+
+
 # Data Resources
 
 ## Knowledge bases (KB)
