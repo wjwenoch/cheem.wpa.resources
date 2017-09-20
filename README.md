@@ -1,6 +1,6 @@
--[X] add links to base KBs 
--[] literature review on AXI
--[] report on the state-of-the-art
+- [x] add links to base KBs 
+- [] literature review on AXI
+- [] report on the state-of-the-art
 
 # Venues for publishing/collaboration
 ## Conferences
@@ -25,6 +25,7 @@
 |Webchild|https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/webchild/ | 
 |Babelnet|http://babelnet.org/ |Multilingual. 14m entries. Wordnet based.|
 |Google KG|https://developers.google.com/knowledge-graph/ |Not great coverage/hierarchy/expressivity, but easy to access|
+
 Note on the deprecated Freebase: some (not all) of the Freebase entities are linked to Wikidata entities, and they can identified using SPARQL queries on Wikidata as long as the Freebase identifiers are known, e.g., 
 ```
 SELECT ?ent WHERE {
