@@ -2,6 +2,13 @@
 - [] literature review on AXI
 - [] report on the state-of-the-art
 
+# On explanations
+## NLP-based resources
+Inference-based explanations for science questions, etc. See http://cognitiveai.org/explanationbank/
+The dataset COLING 2016 is a good one for understanding the details in the paper [http://cognitiveai.org/wp-content/uploads/2017/11/jansen_et_al_coling2016_whats_in_an_explanation_knowledge_inference_requirements.pdf|Paper]
+
+
+
 # Venues for publishing/collaboration
 ## Conferences
 |Conference|CFP|Remarks|
