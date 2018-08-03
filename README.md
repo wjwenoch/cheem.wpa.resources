@@ -1,6 +1,11 @@
 - [x] add links to base KBs 
 - [] literature review on AXI
-- [] report on the state-of-the-art
+- [] report on the state-of-the-art 
+
+# On logical reasoning + learning
+## inference after learning
++  [Hinge-Loss Markov Random Fields and Probabilistic Soft Logic](https://arxiv.org/abs/1505.04406), with [code]( https://github.com/adityaSomak/PSLQA)
+
 
 # On explanations
 ## NLP-based resources
